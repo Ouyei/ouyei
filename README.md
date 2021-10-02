@@ -24,5 +24,7 @@ I'm a Software Developer student from Uruguay 🇺🇾
 <br />
 <br />
 
-
+<a href="https://twitter.com/Ouyei">
+  <img align="right" alt="Ouyei | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
