@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Ouyei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouyei&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ouyei&layout=compact)](https://github.com/Ouyei/github-readme-stats)
+
 
 
 
