@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Ouyei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouyei)](https://github.com/Ouyei/github-readme-stats)
+![Ouyei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouyei&hide=contribs,prs)
+
