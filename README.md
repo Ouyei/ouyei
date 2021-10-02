@@ -15,10 +15,10 @@ I'm a Software Developer student from Uruguay 🇺🇾
 #### Top Repositories
 
 <a href="https://github.com/Ouyei/holbertonschool-low_level_programming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ouyei&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ouyei&repo=holbertonschool-low_level_programming&theme=buefy" />
 </a>
 <a href="https://github.com/Ouyei/holberton-system_engineering-devops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ouyei&repo=holberton-system_engineering-devops&theme=buefy" />
 </a>
 
 <br />
