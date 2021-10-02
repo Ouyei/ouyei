@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ouyei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouyei)](https://github.com/Ouyei/github-readme-stats)
-![Ouyei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouyei&hide=contribs,prs)
-![Ouyei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouyei&show_icons=true)
-![Ouyei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouyei&show_icons=true&theme=radical)
+![Ouyei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouyei&show_icons=true&theme=buefy)
 
 
 
