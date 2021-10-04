@@ -1,6 +1,6 @@
 <br />
 
-I'm a Software Developer student from Uruguay 🇺🇾
+I'm a Software Developer student from Uruguay :uruguay:
 
 **About me**
 
